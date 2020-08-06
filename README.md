@@ -1,7 +1,7 @@
 # Hackerrank Solutions
-Solutions to Completed HackerRank Problems 
+My Solutions to HackerRank Problems 
 
-
+### Python
 | Language |    Sub Domain    | Difficulty |          Problem          |                 Solution                |
 |:--------:|:----------------:|:----------:|:-------------------------:|:---------------------------------------:|
 | Python   | Basic Data Types | Easy       | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)       | [list-comprehensions.py](https://github.com/Pahulpreet86/hackerrank-solutions/blob/master/Practice%20Python/Basic%20Data%20Types/Easy/list-comprehensions.py)                  |
